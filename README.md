@@ -24,7 +24,7 @@ Next.js • React • Node.js • Express • TypeScript • MongoDB • Postgre
 Flutter • Dart • Riverpod • Hive • Firebase
 
 **Blockchain**  
-Solidity • Smart Contracts • Web3.js • Ethers.js
+Solidity • Smart Contracts • Web3.js • Ethers.js • Solana Programs
 
 **Tools & DevOps**  
 Docker • Kubernetes • Git • Cloudflare Workers • Vercel • Postman
