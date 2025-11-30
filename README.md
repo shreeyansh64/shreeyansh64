@@ -1,80 +1,56 @@
-<h1 align="center"> Hey there! I'm Shreeyansh 🙌 </h1>
+<h1 align="center">Hey there! I'm Shreeyansh 🙌</h1>
 
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+TypeScript+%26+Flutter+Developer;Also+a+Smart+Contract+Developer;Building+clean+%26+scalable+apps+with+type+safety" />
-</p>
-
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+MERN+%2B+Next.js+Developer;Flutter+Mobile+Developer;Smart+Contract+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 **Full-stack dev** building smooth, scalable apps in **TypeScript** & **Flutter**.  
-⚙️ Love **clean architecture**, performance, and type safety.  
-📱 Crafting UI + backend flows that just *feel right*.  
-🌐 Exploring AI integrations, animations & decentralized tech.  
+💻 **Full-stack TypeScript developer** specializing in **MERN + Next.js**  
+📱 **Flutter developer** building smooth, scalable mobile apps  
+⛓️ **Smart contract developer** working with Solidity & Web3  
+⚡ Focused on clean architecture, type safety & performance
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Core Skills
 
-### 🖼️ Frontend & Mobile
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+**Full-Stack Web**  
+Next.js • React • Node.js • Express • TypeScript • MongoDB • PostgreSQL • Prisma
 
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+**Mobile Development**  
+Flutter • Dart • Riverpod • Hive • Firebase
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Hive-F0B90B?style=for-the-badge&logo=hive&logoColor=white" />
+**Blockchain**  
+Solidity • Smart Contracts • Web3.js • Ethers.js
 
-### 🧰 Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+**Tools & DevOps**  
+Docker • Kubernetes • Git • Cloudflare Workers • Vercel • Postman
 
 ---
 
-## 📱 Featured Flutter Projects
+## 📱 Featured Projects
 
-### 🎵 **PulsePlay**  
-A music-streaming app with offline caching, playlists & smooth Riverpod-driven UI.  
-➡️ **Repo:** https://github.com/shreeyansh64/PulsePlay
+### 🎵 **PulsePlay** — Music Streaming App
+Offline caching, playlists & Riverpod state management  
+**Tech:** Flutter, Riverpod, Hive  
+[View Project →](https://github.com/shreeyansh64/PulsePlay)
+
+### 👥 **TwoGather** — Social Network App
+Real-time chat, posts & location-based interactions  
+**Tech:** Flutter, Firebase, Google Maps API  
+[View Project →](https://github.com/shreeyansh64/TwoGather)
+
+### 📸 **Crona** — Media Social Platform
+Reels, video calls & geo-based friend discovery  
+**Tech:** Flutter, WebRTC, Firebase  
+[View Project →](https://github.com/shreeyansh64/Crona)
 
 ---
 
-### 👥 **TwoGather**  
-Social app with real-time chat, posts, location-based interactions & optimized scrolling.  
-➡️ **Repo:** https://github.com/shreeyansh64/TwoGather
-
----
-
-### 📸 **Crona**  
-Media-heavy social app with reels, video calls & geo-based friend discovery.  
-➡️ **Repo:** https://github.com/shreeyansh64/Crona
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
   <a href="https://github.com/shreeyansh64">
@@ -93,11 +69,6 @@ Media-heavy social app with reels, video calls & geo-based friend discovery.
 
 ---
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
-</p>
-
 <div align="center">
-  <i>“From code to creativity — building apps that matter.”</i>
+  <i>"Building scalable apps with clean code & type safety"</i>
 </div>
-
