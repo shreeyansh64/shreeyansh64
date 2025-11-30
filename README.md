@@ -51,7 +51,7 @@ Reels, video calls & geo-based friend discovery
 ### 💧 **Solana Airdrop Faucet** — Web3 Devnet Tool
 Glassmorphic UI for requesting SOL tokens on devnet with wallet integration  
 **Tech:** React, TypeScript, Solana Web3.js, Wallet Adapter  
-[View Project →]([https://github.com/shreeyansh64/solana_faucet](https://solana-faucet-iota.vercel.app/))
+[View Project →](https://solana-faucet-iota.vercel.app/)
 
 ---
 
