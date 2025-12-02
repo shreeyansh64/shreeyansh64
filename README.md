@@ -167,9 +167,6 @@ Glassmorphic UI for SOL airdrops
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreeyansh64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyansh64&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
