@@ -167,10 +167,6 @@ Glassmorphic UI for SOL airdrops
 ## 📊 GitHub Stats
 
 <div align="center">
-
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyansh64&theme=tokyonight&hide_border=true" />
 </div>
 
