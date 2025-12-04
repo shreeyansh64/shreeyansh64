@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-<div align="left">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
 
 ### 👨‍💻 Full-Stack Developer | 📱 Mobile Engineer | ⛓️ Web3 Builder
 
@@ -38,10 +38,6 @@ I'm a passionate developer who loves building **scalable, high-performance appli
 *Clean code isn't just about making it work—it's about making it beautiful, maintainable, and performant.* I believe in writing code that tells a story and building products that solve real problems.
 
 > **"First, solve the problem. Then, write the code."** - John Johnson
-
-</div>
-
-<br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
@@ -165,6 +161,13 @@ Glassmorphic UI for SOL airdrops
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shreeyansh64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyansh64&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyansh64&theme=tokyonight&hide_border=true" />
