@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm Shreeyansh
+# 👋 Hi ! I'm Shreeyansh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+MERN+%2B+Next.js+Developer;Flutter+Mobile+Developer;Smart+Contract+Developer;Building+the+future%2C+one+commit+at+a+time" />
 
@@ -23,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-### 👨‍💻 Full-Stack Developer | 📱 Mobile Engineer | ⛓️ Web3 Builder
+### 👨‍💻 Full-Stack Developer | 📱 Flutter Developer | ⛓️ Web3 Builder
 
 I'm a passionate developer who loves building **scalable, high-performance applications** across web, mobile, and blockchain. From crafting pixel-perfect UIs to architecting robust backends, I'm all about creating seamless digital experiences.
 
