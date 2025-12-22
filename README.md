@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there !! I'm Shreeyansh
+# 👋 Hey there !! I'm Shreeyansh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-stack+MERN+%2B+Next.js+Developer;Flutter+Mobile+Developer;Smart+Contract+Developer;Building+the+future%2C+one+commit+at+a+time" />
 
