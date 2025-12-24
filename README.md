@@ -31,7 +31,7 @@ I'm a passionate developer who loves building **scalable, high-performance appli
 - 🔥 Building production-ready apps with **MERN + Next.js**
 - 📱 Creating beautiful mobile experiences with **Flutter**
 - ⛓️ Developing smart contracts on **Ethereum & Solana**
-- 🚀 Exploring **DeFi, Web3, and decentralized applications**
+- 🚀 Exploring **DeFi, Web3 , and decentralized applications**
 - 💡 Always learning, always shipping
 
 **My Philosophy:**  
