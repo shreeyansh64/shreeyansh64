@@ -169,7 +169,7 @@ Glassmorphic UI for SOL airdrops
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeyansh64&theme=tokyo-night&hide_border=true" />
 </div>
 
-### 💬 *"Building scalable apps with clean code & type safety"*
+### 💬 *" Building scalable apps with clean code & type safety "*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
 
