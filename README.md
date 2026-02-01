@@ -2,7 +2,7 @@
 
 # 🚀 SHREEYANSH SINGH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Apps+That+Scale;450%2B+Active+Community;Mobile+%E2%80%A2+Web+%E2%80%A2+Web3+%E2%80%A2+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Apps+That+Scale;Mobile+%E2%80%A2+Web+%E2%80%A2+Web3+%E2%80%A2+AI" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/shreeyansh64"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
