@@ -32,11 +32,9 @@ class Developer {
   final String location = "Ghaziabad, India";
   
   final List<String> superpowers = [
-    "🎯 Building production apps with 450+ active community",
     "⚡ Optimizing performance by up to 40%",
     "🔥 Shipping features across multiple platforms",
     "⛓️ Crafting smart contracts & Web3 experiences",
-    "🏆 Hackathon finalist & problem solver"
   ];
   
   final Map<String, dynamic> stats = {
