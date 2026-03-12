@@ -303,30 +303,6 @@ console.log("🚀 Building the future, one app at a time");
 
 ---
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=100&section=header&text=Performance%20Metrics&fontSize=32&fontColor=00D9FF&animation=fadeIn&fontAlignY=50" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=2&section=header" width="70%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreeyansh64&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeyansh64&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreeyansh64&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeyansh64&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" width="48%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shreeyansh64&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,16,20&height=2&section=header" width="70%"/>
-
-</div>
-
----
-
 ## 🤝 LET'S CONNECT!
 
 <div align="center">
